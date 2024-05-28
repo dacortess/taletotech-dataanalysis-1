@@ -1,6 +1,8 @@
 # Ejemplos
 
-## Cambiar llanta vehículo
+### **Estudiante:** David Camilo Cortes Salazar
+
+## 1. Cambiar llanta vehículo
 
 **Entradas**
 
@@ -20,7 +22,7 @@ Repuesto, gato, objeto pesado
 10. Apretar tuercas con cruceta
 11. Fin
 
-## Preparar ensalada de frutas
+## 2. Preparar ensalada de frutas
 
 **Entradas**
 
@@ -35,7 +37,9 @@ Frutas, helado, recipiente, utensilios
 5. Agregue helado al gusto
 6. Fin
 
-## Preparar huevo frito
+<div style="page-break-after: always"></div>
+
+## 3. Preparar huevo frito
 
 **Entradas**
 
@@ -53,7 +57,7 @@ huevo, sartén, aceite, sal
 8. Retire el Huevo de la sartén
 9. Fin
 
-## Cambiar un foco
+## 4. Cambiar un foco
 
 **Entradas**
 
@@ -68,8 +72,10 @@ foco nuevo
 5. Retire el foco dañado
 6. Ponga el foco nuevo
 7. Fin
-8. 
-## Pescar una trucha
+
+<div style="page-break-after: always"></div>
+
+## 5. Pescar una trucha
 
 **Entradas**
 
@@ -87,7 +93,7 @@ Caña, carnada
 8. Retire el pez de la caña
 9. Fin
 
-## Descargar documento de internet
+## 6. Descargar documento de internet
 
 **Entradas**
 
@@ -102,7 +108,9 @@ Link, internet
 5. Espere a que se complete la descarga
 6. Fin
 
-## Encender automóvil
+<div style="page-break-after: always"></div>
+
+## 7. Encender automóvil
 
 **Entradas**
 
@@ -118,20 +126,7 @@ Llaves del auto
 6. Encienda el auto
 7. Fin
 
-## Preparar ensalada de frutas
-
-**Entradas**
-
-Frutas, recipiente, utensilios
-
-**Pasos**
-
-1. Inicio
-2. Preparar las frutas
-3. Cortar las frutas con los utensilios
-4. Poner las frutas en el recipiente
-
-## Colgar cuadro
+## 8. Colgar cuadro
 
 **Entradas**
 
@@ -147,7 +142,9 @@ Martillo, puntilla, cuadro
 6. Coloque las cuerdas del cuadro en la puntilla
 7. Fin
 
-## Formatear computador
+<div style="page-break-after: always"></div>
+
+## 9. Formatear computador
 
 **Entradas**
 
