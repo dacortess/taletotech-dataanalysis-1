@@ -1,6 +1,6 @@
 # Ejemplos
 
-## Cambiar llanta vehiculo
+## Cambiar llanta vehículo
 
 **Entradas**
 
@@ -10,10 +10,10 @@ Repuesto, gato, objeto pesado
 
 1. Inicio
 2. Colocar freno de mano y cambio adecuado
-3. Colocar objeto delate y detras de las ruedas
+3. Colocar objeto delante y detrás de las ruedas
 4. Preparar repuesto 
 5. Aflojar ruedas de la llanta con cruceta
-6. Levatar Auto con ayuda del gato
+6. Levantar Auto con ayuda del gato
 7. Retirar tuercas y llanta dañada
 8. Colocar tuercas y llanta nueva
 9. Bajar el auto del gato
@@ -33,23 +33,24 @@ Frutas, helado, recipiente, utensilios
 3. Cortar las frutas con los utensilios
 4. Poner las frutas en el recipiente
 5. Agregue helado al gusto
+6. Fin
 
 ## Preparar huevo frito
 
 **Entradas**
 
-huevo, sarten, aceite, sal
+huevo, sartén, aceite, sal
 
 **Pasos**
 
 1. Inicio
 2. Encienda la estufa a fuego bajo
-3. Ponga la sarten en la estufa
-4. Ponga un poco de aceite en la sarten
-5. Cuando este caliente rompa el huevo y ponga el contenido en la sarten
+3. Ponga la sartén en la estufa
+4. Ponga un poco de aceite en la sartén
+5. Cuando este caliente rompa el huevo y ponga el contenido en la sartén
 6. Ponga una pizca de sal al huevo
 7. Espere entre 2 y 3 minutos
-8. Retire el Huevo de la sarten
+8. Retire el Huevo de la sartén
 9. Fin
 
 ## Cambiar un foco
@@ -62,17 +63,17 @@ foco nuevo
 
 1. Inicio
 2. Revise que el foco nuevo funcione correctamente
-3. Retire la energia de la zona donde va a cambiar el foco
+3. Retire la energía de la zona donde va a cambiar el foco
 4. Identifique el foco dañado
 5. Retire el foco dañado
 6. Ponga el foco nuevo
 7. Fin
-
+8. 
 ## Pescar una trucha
 
 **Entradas**
 
-caña, carnada
+Caña, carnada
 
 **Pasos**
 
@@ -80,13 +81,13 @@ caña, carnada
 2. Busque un sitio apto para pescar
 3. Prepare la carnada
 4. Inserte la carnada en el anzuelo de la caña
-5. Lanze la cuerda de la caña al sitio de pesca
+5. Lance la cuerda de la caña al sitio de pesca
 6. Espere a que piquen el anzuelo
 7. Retraiga la cuerda suavemente para no ahuyentar al pez
 8. Retire el pez de la caña
 9. Fin
 
-## Descargar docuemento de interner
+## Descargar documento de internet
 
 **Entradas**
 
@@ -96,12 +97,12 @@ Link, internet
 
 1. Inicio
 2. Revise que el link sea confiable
-3. Entre al enlace y busque el boton de descarga
-4. Pulse el boton de descarga
+3. Entre al enlace y busque el botón de descarga
+4. Pulse el botón de descarga
 5. Espere a que se complete la descarga
 6. Fin
 
-## Encender automovil
+## Encender automóvil
 
 **Entradas**
 
@@ -112,7 +113,7 @@ Llaves del auto
 1. Inicio
 2. Revise el estado del auto
 3. Inserte las llaves del auto
-4. Revise que este en neutro
+4. Revise que esté en neutro
 5. Pise el embrague
 6. Encienda el auto
 7. Fin
@@ -139,10 +140,10 @@ Martillo, puntilla, cuadro
 **Pasos**
 
 1. Inicio
-2. Revise la zona donde pondra el cuadro
-3. Señale el sitio donde pondra la puntilla
+2. Revise la zona donde pondrá el cuadro
+3. Señale el sitio donde pondrá la puntilla
 4. Posicione la puntilla en la marca
-5. Golpeela con el martillo sin hundirlo por completo
+5. Golpéela con el martillo sin hundirlo por completo
 6. Coloque las cuerdas del cuadro en la puntilla
 7. Fin
 
@@ -150,33 +151,20 @@ Martillo, puntilla, cuadro
 
 **Entradas**
 
-usb
+USB
 
 **Pasos**
 
 1. Inicio
 2. Realice una copia de seguridad de sus datos
-3. inserte una usb
-4. Guarde la copia en una usb
-5. Retire la usb
-6. Entre a configuracion y busque el apartado de formateo
-7. Pulse el boton formatear
+3. inserte una USB
+4. Guarde la copia en una USB
+5. Retire la USB
+6. Entre a configuración y busque el apartado de formateo
+7. Pulse el botón formatear
 8. Espere a que se formatee el computador
-9. Al finalizar configure su equipo
-10. Inserte la usb
+9. Al finalizar configuré su equipo
+10. Inserte la USB
 11. Restaure sus datos con la copia de seguridad
-12. Retire la usb
+12. Retire la USB
 13. Fin
-
-
-
-
-
-
-
-
-
-
-
-
-
