@@ -1,4 +1,4 @@
-# Ejemplos
+# Ejemplos Algoritmos Cotidianos
 
 ### **Estudiante:** David Camilo Cortes Salazar
 

@@ -1,4 +1,4 @@
-# Ejemplos
+# Algoritmo Cambio de Llanta
 
 ### **Estudiante:** David Camilo Cortes Salazar
 
