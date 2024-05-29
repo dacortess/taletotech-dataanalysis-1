@@ -38,7 +38,7 @@ La documentación oficial de Python contiene explicaciones sobre cómo funciona 
 
 Enlace de la documentación para python 3.x: [https://docs.python.org/3/](https://docs.python.org/3/)
 
-c
+<div style="page-break-after: always"></div>
 
 ## Tipos de Datos
 
