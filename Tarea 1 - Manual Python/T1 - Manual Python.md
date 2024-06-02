@@ -20,9 +20,98 @@ onload='renderMathInElement(document.body, {delimiters: [{ left: "$$", right: "$
     });
   </script>
 
-# Manual de Python Básico
+<!-- PORTADA -->
 
-### **Estudiante:** David Camilo Cortes Salazar
+# <p style="text-align: center;">Manual de Python Básico</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## <p style="text-align: center;">David Camilo Cortes Salazar</p> 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### <p style="text-align: center;">Análisis y Visualización de Datos</p> 
+### <p style="text-align: center;">Talento Tech</p> 
+### <p style="text-align: center;">Bogotá D.C.</p> 
+### <p style="text-align: center;">2024</p> 
+
+<div style="page-break-after: always"></div>
+
+<!-- CONTRAPORTADA -->
+
+# <p style="text-align: center;">Manual de Python Básico</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## <p style="text-align: center;">David Camilo Cortes Salazar</p> 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## <p style="text-align: center;">Docente: Carlos Palacios</p> 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### <p style="text-align: center;">Análisis y Visualización de Datos</p> 
+### <p style="text-align: center;">Talento Tech</p> 
+### <p style="text-align: center;">Bogotá D.C.</p> 
+### <p style="text-align: center;">2024</p> 
+
+<div style="page-break-after: always"></div>
+
+<!-- CONTENIDOS -->
 
 ## Objetivo
 
@@ -40,6 +129,8 @@ El objetivo de este manual es proporcionar los conocimientos fundamentales neces
 
 
 <div style="page-break-after: always"></div>
+
+<!-- INTRODUCCION A PYTHON -->
 
 ## Introducción a Python
 
@@ -61,6 +152,8 @@ La documentación oficial de Python contiene explicaciones sobre cómo funciona 
 Enlace de la documentación para python 3.x: [https://docs.python.org/3/](https://docs.python.org/3/)
 
 <div style="page-break-after: always"></div>
+
+<!-- TIPOS DE DATOS -->
 
 ## Tipos de Datos
 
@@ -199,6 +292,8 @@ print(a is b)   # True
 
 <div style="page-break-after: always"></div>
 
+<!-- ESTRUCTURAS DE DATOS -->
+
 ## Estructuras de Datos
 
 Python tiene diferentes estructuras de datos que facilitan el uso y manipulación de datos.
@@ -334,6 +429,8 @@ Los diccionarios son colecciones desordenadas de pares clave-valor. Cada clave d
 
 <div style="page-break-after: always"></div>
 
+<!-- FUNCIONES DEL LENGUAJE -->
+
 ## Funciones Incluidas en el Lenguaje
 
 Python incluye una serie de funciones integradas que son parte del lenguaje.
@@ -434,6 +531,8 @@ help(print)  # Muestra la documentación de la función print
 ```
 
 <div style="page-break-after: always"></div>
+
+<!-- CONTROL DE FLUJO -->
 
 ## Declaraciones y Control de Flujo
 
@@ -553,6 +652,8 @@ def funcion_nula():
 ```
 
 <div style="page-break-after: always"></div>
+
+<!-- FUNCIONES Y MODULOS -->
 
 ## Funciones y Módulos
 
@@ -789,6 +890,8 @@ Python viene con una biblioteca estándar que incluye muchos módulos útiles.
   ```
 
 <div style="page-break-after: always"></div>
+
+<!-- BIBLIOGRAFIA -->
 
 ## Bibliografía
 
