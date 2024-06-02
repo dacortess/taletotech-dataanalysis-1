@@ -1,3 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"
+onload='renderMathInElement(document.body, {delimiters: [{ left: "$$", right: "$$", display: true },{ left: "$", right: "$", display: false },{ left: "\\[", right: "\\]", display: true }]});'></script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });</script>
+<title>{{{title}}}</title>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+</head>
+<body>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: document.body.classList.contains('vscode-dark') || document.body.classList.contains('vscode-high-contrast')
+          ? 'dark'
+          : 'default'
+    });
+  </script>
+
 # Manual de Python Básico
 
 ### **Estudiante:** David Camilo Cortes Salazar
@@ -647,17 +669,118 @@ Los módulos son archivos que contienen definiciones y sentencias que ayudan a o
 Python viene con una biblioteca estándar que incluye muchos módulos útiles.
 
 - **Módulo math**:
+
+    Esta herramienta inclye diferentes tipos de constantes y funciones matematicas. 
+
+    Para hacer uso del modulo se debe importar de la siguiente manera:
   ```python
   import math
-
-  raiz = math.sqrt(16) # raiz cuadrada
-  pi = math.pi # Numero pi
-
-  print(raiz)  # Imprime 4.0
-  print(pi)  # Imprime 3.141592653589793
   ```
+    Veamos algunas de las funciones que incluye:
+    
+    - Raiz Cuadrada: 
+
+      Esta funcion recibe un número como argumento y retorna su raiz cuadrada.
+
+      Ejemplo: $\sqrt(16) = 4$
+      ```python
+      raiz = math.sqrt(16) # raiz cuadrada
+  
+      print(raiz)  # Imprime 4.0
+      ```
+    - Potencia:
+
+      Esta funcion recibe dos n'umeros como argumentos y retorna la potencia de estos números. El primero sera la base y el segundo el exponente.
+
+      Ejemplo: $4^{2} = 16$
+      ```python
+      pot = math.pow(4, 2) # potencia
+  
+      print(pot)  # Imprime 16
+      ```
+    - Logaritmo:
+
+      Esta funcion recibe dos números como argumentos y retorna el logaritmo de estos números. El primero sera el argumento y el segundo el base.
+
+      Ejemplo: $log_{4}(16) = 2$
+      ```python
+      log = math.log(16, 4) # logaritmo
+  
+      print(log)  # Imprime 2
+      ```
+    - Función Techo:
+
+      Esta funcion recibe un número como argumento y retorna el mayor número entero mas cercano.
+
+      Ejemplo: $\lceil 4.2 \rceil = 5$
+      ```python
+      techo = math.ceil(4.2) # Techo
+  
+      print(techo)  # Imprime 5
+      ```
+    - Función Piso:
+
+      Esta funcion recibe un número como argumento y retorna el menor número entero mas cercano.
+
+      Ejemplo: $\lfloor 4.8 \rfloor = 4$
+      ```python
+      piso = math.floor(4.8) # Piso
+  
+      print(piso)  # Imprime 4
+      ```
+
+      <div style="page-break-after: always"></div>
+
+    - Factorial:
+
+      Esta funcion recibe un número como argumento y retorna su factorial.
+
+      Ejemplo: $5! = 120$
+
+      ```python
+      fac = math.factorial(5) # Factorial
+  
+      print(fac)  # Imprime 120
+      ```
+    - Maximo Común Divisor:
+
+      Esta funcion recibe dos números como argumentos y retorna el maximo común divisor entre ellos.
+
+      Ejemplo: $\gcd(25,120) = 5$
+      ```python
+      gcd = math.gcd(5,120) # Maximo común divisor
+  
+      print(gcd)  # Imprime 5
+      ```
+    - Valor Absoluto:
+
+      Esta funcion recibe un número como argumento y retorna su valor absoluto.
+
+      Ejemplo: $\lvert -10 \rvert = 10$
+      ```python
+      vabs = math.fabs(-10) # Valor absoluto
+  
+      print(vasb)  # Imprime 10
+      ```
+    - Función Exponencial:
+
+      Esta funcion recibe un número como argumento y retorna el exponencial de dicho número.
+
+      Ejemplo: $e^{3} = 20.085536923187668$
+      ```python
+      fexp = math.exp(3) # Exponencial
+  
+      print(fexp)  # Imprime 20.085536923187668
+      ```
+
+<div style="page-break-after: always"></div>
 
 - **Módulo datetime**:
+
+  Esta herramienta proporciona una variedad de clases para representar, manipular, formatear y utilizar fechas y horas en diferentes formatos.
+
+  El siguiente ejemplo muestra como acceder a la fecha y hora actuales:
+
   ```python
   from datetime import datetime
 
@@ -674,3 +797,5 @@ Python viene con una biblioteca estándar que incluye muchos módulos útiles.
 - Programiz Python Tutorials. [Programiz Python Tutorials](https://www.programiz.com/python-programming)
 - Python Tutoriales. [Python Tutoriales](https://www.pythontutorials.net/)
 
+</body>
+</html>
