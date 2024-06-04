@@ -2,8 +2,8 @@ import math
 
 """
 Elabore un algoritmo que halle área de 5 figuras
-#geométricas y muestre los resultados en forma de
-#ecuación
+geométricas y muestre los resultados en forma de
+ecuación
 """
 
 # INICIO
